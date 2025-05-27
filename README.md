@@ -43,8 +43,8 @@ src="logo.png"
   <div class="container-0-1-4"><div class="text-1-2-0">REGISTER</div></div>
   <div class="container-0-1-5"><div class="text-1-2-0">LOGIN</div></div>
 </div>
-
-
+```
+```
 <div class="container--0-">
   <div class="text-0-1-0">hackathon events</div>
   <div class="text-0-1-1">
@@ -54,8 +54,8 @@ src="logo.png"
     mentorship session
   </div>
 </div>
-
-
+```
+```
 <div class="container--0-">
   <img
     src="background.png"
@@ -78,8 +78,8 @@ src="logo.png"
     src="logo.png"
 />
 </div>
-
-
+```
+```
 <div class="container--0-">
   <img
     src="background.png"
@@ -91,7 +91,7 @@ src="logo.png"
   <div class="text-0-1-2">
     CONTACT US:<br /><br />Email: saveethaengineeringcollege@gmail.com<br />Mobile:
     6380328074<br /><br /><br /><br /><br /><br /><br />Designed &#x26;Developed
-    by Nanda Kishor SP
+    by K Saranya
   </div>
   <img
     src="logo.png"
