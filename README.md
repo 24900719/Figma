@@ -771,7 +771,8 @@ css code
 ```
 
 # OUTPUT:
-![Uploading Screenshot 2025-05-27 183529.png…]()
+![Screenshot 2025-05-27 183529](https://github.com/user-attachments/assets/13c91295-3a22-47fc-9c5d-8ac1a7499bb7)
+
 
 
 # RESULT:
