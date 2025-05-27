@@ -95,7 +95,8 @@ src="logo.png"
   <img
     src="logo.png"
   />
-</div>```
+</div>
+```
 # OUTPUT:
 ![Screenshot 2025-05-27 133201](https://github.com/user-attachments/assets/12ca2448-c6af-47fc-bb5a-288d1945b824)
 
