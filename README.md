@@ -29,7 +29,8 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
-```div class="container--0-">
+```
+div class="container--0-">
   <img
 
 src="background.png"
