@@ -265,7 +265,7 @@ event page html
               /><img
         src="data:image/png;base64"
              />
-      <div class="text-2-3-4">co-ordinator - dhanus karthi</div>
+      <div class="text-2-3-4">co-ordinator - K.SARANYA</div>
       <div class="text-2-3-5">THANK YOU FOR REGISTERING</div>
     </div>
     <div class="text-1-2-10">MOBILE NO</div>
@@ -506,7 +506,7 @@ registation page html code
           /><img
       src="data:image/png;base64"
           />
-    <div class="text-1-2-4">co-ordinator - dhanus karthi</div>
+    <div class="text-1-2-4">co-ordinator - K.SARNAYA</div>
     <div class="text-1-2-5">THANK YOU FOR REGISTERING</div>
   </div>
   <img
@@ -581,7 +581,7 @@ registation page html code
     <rect width="302" height="48" rx="22" fill="#38DA86"></rect>
   </svg>
   <div class="text-0-1-16">EVENT TO REGISTER</div>
-  <div class="text-0-1-17">co-ordinator - dhanus karthi</div>
+  <div class="text-0-1-17">co-ordinator - K.SARANYA</div>
   <div class="text-0-1-18">form</div>
 </div>
 ```
@@ -733,7 +733,7 @@ end page html code
     <rect width="172" height="95" rx="25" fill="#FF5E08"></rect>
   </svg>
   <div class="text-0-1-4">Thank you for registering</div>
-  <div class="text-0-1-5">Co-ordinator - Dhanus karthi</div>
+  <div class="text-0-1-5">Co-ordinator - K.SARNAYA</div>
 </div>
 ```
 css code
