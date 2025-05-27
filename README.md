@@ -771,7 +771,7 @@ css code
 ```
 
 # OUTPUT:
-![Screenshot 2025-05-27 183529](https://github.com/user-attachments/assets/13c91295-3a22-47fc-9c5d-8ac1a7499bb7)
+![Untitled design](https://github.com/user-attachments/assets/382c5a10-0646-47b1-9a3a-513982d948e0)
 
 
 
